@@ -7,9 +7,9 @@
  *
  **/
 
-namespace coolsms
+namespace CS;
 
-class coolsms
+class Coolsms
 {
 	private $api_key;
 	private	$api_secret;
@@ -479,5 +479,9 @@ class coolsms
 			}
 		}
 		return $browser;
+	}
+
+	function test() {
+		echo "TTT";
 	}
 }
