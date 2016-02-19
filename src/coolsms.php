@@ -7,6 +7,8 @@
  *
  **/
 
+namespace coolsms
+
 class coolsms
 {
 	private $api_key;
