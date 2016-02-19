@@ -1,0 +1,19 @@
+{
+    "name": "hosy/php-sdk-test",
+    "description": "Send message using PHP and RestAPI[TEST]",
+    "type": "library",
+    "keywords": ["coolsms", "nurigo", "sms", "message", "messages", "cool", "textmessage", "mobile", "cellphone", "phone", "mms", "lms", "global"],
+    "license": "MIT",
+    "homepage": "http://coolsms.co.kr",
+    "authors": [
+        {
+            "name": "nurigo",
+            "email": "contact@nurigo.net",
+            "homepage": "http://coolsms.co.kr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
